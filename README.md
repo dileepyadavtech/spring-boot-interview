@@ -1,1 +1,4 @@
-# Q.  spring-boot-interview
+### Question:
+Which toxic metabolite accumulates after acute paracetamol overdose?
+### Answer:
+NAPQI
